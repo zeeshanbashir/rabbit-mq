@@ -1,5 +1,6 @@
 ### Vagrant template
 .vagrant/
+.idea/
 ### TortoiseGit template
 # Project-level settings
 /.gitconfig

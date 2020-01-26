@@ -1,0 +1,6 @@
+### Vagrant template
+.vagrant/
+### TortoiseGit template
+# Project-level settings
+/.gitconfig
+vendor/

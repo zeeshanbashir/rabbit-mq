@@ -1,0 +1,12 @@
+{
+    "name": "www-data/rabbit-mq",
+    "authors": [
+        {
+            "name": "zeeshan bashir",
+            "email": "zeeshan.bashir@seera.sa"
+        }
+    ],
+    "require": {
+        "php-amqplib/php-amqplib": ">=2.9.0"
+    }
+}
